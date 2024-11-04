@@ -1,16 +1,19 @@
-## Hi there 👋
+![](https://github.com/PabloMolina70/PabloMolina70/blob/main/banner.jpg)
+### Informacion Personal
+- Me llamo Pablo Molina Serrano
+- Tengo 23 años
 
-<!--
-**PabloMolina70/PabloMolina70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudios
+- Soy Tecnico en Desarrollo de aplicaciones web
+- Estudiando actualmente Desarrollo de aplicaciones multiplataforma
 
-Here are some ideas to get you started:
+### Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Me gustan los videojuegos y conocer gente nueva en esos juegos
+- Desde hace un año me he interesado mas en el mundo de la Realidad virtual y su funcionamiento
+
+### Enlaces de interes
+
+- #### [w3schools](https://www.w3schools.com) Pagina donde ver muchos lenguajes y ejemplos de su uso
+- #### [devdocs](https://devdocs.io) Manual de muchos lenguajes que se puede ver con y sin conexion a internet
+- #### [Disco duro de Roer](https://www.youtube.com/user/DiscoDurodeRoer?reload=9&cbrd=1) Canal de YouTube con muchos videos de utilidad
